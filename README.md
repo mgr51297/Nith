@@ -1,3 +1,3 @@
 # Nith
 College App
-This is an unofficial app for NIT Hamirpur college
+This is the app for NIT Hamirpur college
